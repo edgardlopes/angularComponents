@@ -1,15 +1,15 @@
 # angularComponents
-Componentes simples feitos em angular, para fins didaticos
+Simple components made in Angular.js, only for didactics goals
 
-instalando:
+Install:
 ````
  $ bower install angularSimpleComponents
 ```  
-adicionando no modulo principal de sua app
+Add in main module your app
 ````js  
 angular.module('appName', ['components']);
 ```  
-referenciando script no index.html
+Include the script on your page
 ````html
 <script src="/angularSimpleComponents/components.js"></script>
 ```	
